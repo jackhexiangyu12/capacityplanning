@@ -4,6 +4,7 @@
 - 离散事件模拟
 - 网络设计的整数编程
 
+
 Prob[ A and B]=Prob[A]*Prob[BIA]
 Prob[B I A]=Prob(B] only if A and B are independent
 
